@@ -1,0 +1,24 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "这是一个电子书",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siyuannnnn-hsy/ibook.git"
+  },
+  "author": "siyuannnn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siyuannnnn-hsy/ibook/issues"
+  },
+  "homepage": "https://github.com/siyuannnnn-hsy/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
